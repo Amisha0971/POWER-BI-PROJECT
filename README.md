@@ -83,15 +83,6 @@ The dashboard includes analysis of attrition by:
 
 ---
 
-## 📁 Project Files
-
-- 📄 **HR Analytics Project – Documentation**  
-- 📊 **HR Analytics Power BI Dashboard (PDF Preview)**  
-
-
-
----
-
 ## ✅ Conclusion
 
 This HR Analytics dashboard provides clear visibility into workforce attrition patterns and highlights key risk areas related to age, salary, education, and job roles.  
